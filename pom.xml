@@ -59,7 +59,7 @@
         <configuration>
           <generateReports>true</generateReports>
           <testFilesIncluded>
-            <jMeterTestFile>*.jmx</jMeterTestFile>
+            <jMeterTestFile>bing.jmx</jMeterTestFile>
           </testFilesIncluded>
         </configuration>
       </plugin>
