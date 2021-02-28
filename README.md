@@ -1,6 +1,6 @@
 # Jmeter Maven Automation Testing
 
-Foobar is a Python library for dealing with word pluralization.
+Jmeter Maven Automation Testing is to develop the tests using Jmeter GUI and execute and generate the reports using maven tool.
 
 #### Required Tools
 
