@@ -14,7 +14,7 @@ Java
 
 To run all the tests
 ```mvn commands
-mvn test
+mvn clean verify
 
 ```
 To invoke the JMeter GUI using the following command
@@ -27,6 +27,11 @@ To preload a test in JMeter GUI
 ```
 mvn jmeter:configure jmeter:gui -DguiTestFile=src/test/jmeter/test.jmx
 
+```
+
+Generated reports available at
+```aidl
+target/jmeter/reports
 ```
 
 #### Contributing
